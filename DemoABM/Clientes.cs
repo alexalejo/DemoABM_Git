@@ -179,13 +179,25 @@ namespace DemoABM
                     Cliente buscacli = (from a in objCliente.Clientes
                                         where a.IdDNI == id
                                         select a).SingleOrDefault();
-                    if (buscacli !=null)
+                    if (buscacli != null)
                     {
                         txtNombre.Text = buscacli.Nombres;
                         txtApellido.Text = buscacli.Apellidos;
                         txtRutaImg.Text = buscacli.RutaImagen;
                         dtFecNac.Value = buscacli.FecNacimiento.Value;
-                        pbImagen.Image = Image.FromFile(buscacli.RutaImagen);
+                        if (buscacli.RutaImagen != "")
+                        {
+                            pbImagen.Image = Image.FromFile(buscacli.RutaImagen);
+                            txtRutaImg.Text = buscacli.RutaImagen;
+                        }
+                        else
+                        {
+                            pbImagen.Image = null;
+                            txtRutaImg.Text = "";
+
+                        }
+
+
                         btnModificar.Enabled = true; btnEliminar.Enabled = true;
                         txtNombre.Focus();
                     }
