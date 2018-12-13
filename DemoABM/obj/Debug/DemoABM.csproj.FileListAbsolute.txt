@@ -1,0 +1,15 @@
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\DemoABM.exe.config
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\DemoBD.mdf
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\DemoBD_log.ldf
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\DemoABM.exe
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\DemoABM.pdb
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\EntityFramework.dll
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\EntityFramework.SqlServer.dll
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\EntityFramework.xml
+C:\puntonet\2018\DemoABM\DemoABM\bin\Debug\EntityFramework.SqlServer.xml
+C:\puntonet\2018\DemoABM\DemoABM\obj\Debug\DemoABM.csprojResolveAssemblyReference.cache
+C:\puntonet\2018\DemoABM\DemoABM\obj\Debug\DemoABM.Properties.Resources.resources
+C:\puntonet\2018\DemoABM\DemoABM\obj\Debug\DemoABM.csproj.GenerateResource.Cache
+C:\puntonet\2018\DemoABM\DemoABM\obj\Debug\DemoABM.exe
+C:\puntonet\2018\DemoABM\DemoABM\obj\Debug\DemoABM.pdb
+C:\puntonet\2018\DemoABM\DemoABM\obj\Debug\DemoABM.Clientes.resources
